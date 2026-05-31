@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchcarse",
+        "uuid": 20477184,
+        "checksum": "6ck1ec"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
